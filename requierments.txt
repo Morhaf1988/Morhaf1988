@@ -1,0 +1,10 @@
+pyautogui
+time
+Image
+numpy
+tkinter
+Thread
+PIL
+threading
+
+
